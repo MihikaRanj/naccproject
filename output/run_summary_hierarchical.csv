@@ -1,2 +1,2 @@
 cols,macro_f1,bal_acc,vas_prec,vas_rec,setting,T_DEM,T_PD,T_VAS,w_dem_pos,w_vas_pos,w_pd_pos,artifact_ablation,artifact_pred_probs
-46.0,0.5507908409126004,0.5400213100078433,0.18181818181818182,0.15384615384615385,Full,0.45,0.35,0.03,3.0,25.0,10.0,../output\ablation_hierarchical.csv,../output\hierarchical_pred_probs.csv
+44.0,0.4985865753767083,0.5157354332899741,0.14,0.20588235294117646,Full,0.45,0.35,0.03,3.0,25.0,10.0,../output\ablation_hierarchical.csv,../output\hierarchical_pred_probs.csv
