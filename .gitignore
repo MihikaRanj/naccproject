@@ -4,3 +4,4 @@
 
 # optionally keep small CSVs only (remove this line if you truly want all csv ignored)
 # !output/small_example.csv
+output/cohort.csv
