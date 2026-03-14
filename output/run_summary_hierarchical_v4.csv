@@ -1,2 +1,0 @@
-macro_f1,bal_acc,vasc_recall,pd_recall,n_cols,setting,T_DEM,T_PD,T_VAS,w_dem,w_vas,w_pd,method,threshold_method
-0.5236764911133996,0.5331934909738114,0.0,0.49122807017543857,75.0,Full,0.041050604885484246,0.06465333608418773,0.0029999256744687726,4.0,50.0,20.0,soft_probability_routing,F2_precision_recall_curve
