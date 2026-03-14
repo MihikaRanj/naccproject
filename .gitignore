@@ -1,6 +1,7 @@
 /data/*.csv
 /output/cohort*.csv
-/output_v1/cohort*.csv
+/output_v1/*
+/output_v2/*
 
 # optionally keep small CSVs only (remove this line if you truly want all csv ignored)
 # !output/small_example.csv
